@@ -1,0 +1,35 @@
+.nav{
+    grid-area: n;
+    background-color: darkolivegreen;
+}
+.nav div a.active{
+    color: gold;
+}
+
+.nav div a{
+    font-size: 30px;
+    text-indent: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+
+.setting{
+     margin-top: 30px;
+}
+
+.findusers{
+    margin-top: 30px;
+}
+
+.games{
+    margin-top: 30px;
+}
+
+.nav img{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+
+}
+

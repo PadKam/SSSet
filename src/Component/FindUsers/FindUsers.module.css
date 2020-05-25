@@ -1,0 +1,11 @@
+img{
+    width:50px;
+    border-radius: 25px;
+}
+.selectPage{
+    font-weight: bold;
+    background-color: aquamarine;
+}
+.buttonFollowDisable{
+    disabled:disabled;
+}

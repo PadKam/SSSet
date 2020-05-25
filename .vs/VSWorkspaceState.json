@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\src",
+    "\\src\\Component",
+    "\\src\\Component\\FindUsers",
+    "\\src\\Redux"
+  ],
+  "SelectedNode": "\\src\\Component\\FindUsers\\FindUsers.js",
+  "PreviewInSolutionExplorer": false
+}
